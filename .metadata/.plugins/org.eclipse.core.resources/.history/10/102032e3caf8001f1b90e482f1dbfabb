@@ -27,9 +27,7 @@ def addReturn(a,b):
 
 def addReturn2(a,b):
     return([a+b,a-b,a*b,a/b])    
-
 ####################################################
-help(addReturn2(5, 7))
 test()
 add(2,4)
 add2 (3,5,7)
