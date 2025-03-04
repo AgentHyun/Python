@@ -1,0 +1,13 @@
+#(int i = 0 ...)   : X
+# (int ii : i) : O (Java의 for-each문에 해당하는 반복문)
+
+l = [123,45,6,78,910]
+for ll in l:
+    print(ll)
+    
+    #ㅋ 을 10 번 출력
+    for i in range(10):
+        print('ㅋ')
+    
+    
+    # 1 ~ 20까지의 정수 중에서 홀수만 출력

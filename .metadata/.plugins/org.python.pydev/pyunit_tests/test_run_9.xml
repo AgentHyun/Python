@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 9" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="C:\Users\sdedu\Desktop\&amp;#44060;&amp;#48156;\Python\Mar_04_1\p07_RepeatStmt.py" status="error" test="p07_RepeatStmt" time="0">
+        <stdout/>
+        <stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\sdedu\Desktop\eclipse\plugins\org.python.pydev.core_12.2.0.202409031913\pysrc\_pydev_runfiles\pydev_runfiles.py", line 469, in __get_module_from_str
+    mod = __import__(modname)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sdedu\Desktop\&#44060;&#48156;\Python\Mar_04_1\p07_RepeatStmt.py", line 31, in <module>
+    for i, v in enumerate(ll):
+                ^^^^^^^^^^^^^
+TypeError: 'int' object is not iterable
+ERROR: Module: p07_RepeatStmt could not be imported (file: C:\Users\sdedu\Desktop\&#44060;&#48156;\Python\Mar_04_1\p07_RepeatStmt.py).
+]]></stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Mar_04_1 p07_RepeatStmt.py"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>
