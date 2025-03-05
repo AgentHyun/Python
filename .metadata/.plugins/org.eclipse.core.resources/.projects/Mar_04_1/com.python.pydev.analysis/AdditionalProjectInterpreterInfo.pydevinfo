@@ -1,7 +1,9 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\sdedu\Desktop\개발\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Mar_04_1\com.python.pydev.analysis\v2_indexcache
+p08_function|1741073575060663600|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p08_function.py
 p06_conditionalStmt|1741068796432792900|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p06_conditionalStmt.py
+p07_RepeatStmt|1741070522877248100|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p07_RepeatStmt.py
 p04_operator|1741058340817281900|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p04_operator.py
 p02_print|1741052796280166300|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p02_print.py
 p05_collection|1741065985143814500|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p05_collection.py
@@ -9,21 +11,26 @@ p01_test|1741051882887534200|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p01_tes
 p03_variable|1741055745518157500|C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p03_variable.py
 -- END DISKCACHE
 -- START DICTIONARY
-8
+12
 7=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p06_conditionalStmt.py
+10=p08_function
 8=p06_conditionalStmt
 5=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p03_variable.py
 3=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p04_operator.py
+12=p07_RepeatStmt
 4=p04_operator
 2=p05_collection
 6=p03_variable
+9=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p08_function.py
+11=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p07_RepeatStmt.py
 1=C:\Users\sdedu\Desktop\개발\Python\Mar_04_1\p05_collection.py
 -- END DICTIONARY
 -- START TREE 1
-33
+36
 a|3|a!1^14#1*19@a!3^51#1*35@a!5^16#1*51@
 a1|1|a1!1^44#1*19@
 abc|1|abc!7^52#1*67@
+add|4|addReturn!9^23#5*82@add2!9^18#5*82@addReturn2!9^28#5*82@add!9^14#5*82@
 age|1|age!7^19#1*67@
 b1|1|b1!1^45#1*19@
 c|1|c!3^14#1*35@
@@ -35,8 +42,9 @@ h|1|h!3^42#1*35@
 hei|1|height!7^20#1*67@
 inp|2|input1!3^4#1*35@input2!3^5#1*35@
 k1|1|k1!5^76#1*51@
-l|0|
-li|0|
+l|1|l!11^4#1*99@
+li|1|li!11^29#1*99@
+max|2|maxv!11^40#1*99@max!11^39#1*99@
 p_b|1|p_bool!5^38#1*51@
 p_d|1|p_dict!5^49#1*51@
 p_f|1|p_float!5^36#1*51@
@@ -48,11 +56,12 @@ r|1|r!1^80#1*19@
 r2|1|r2!1^87#1*19@
 r3|1|r3!1^95#1*19@
 s|1|s!1^2#1*19@
-sco|1|score!7^40#1*67@
+sco|2|score!11^35#1*99@score!7^40#1*67@
 t|1|t!1^38#1*19@
+tes|2|test2!9^10#5*82@test!9^7#5*82@
 tup|1|tuple1!1^33#1*19@
 x|1|x!3^18#1*35@
-y|0|
+y|1|y!11^19#5*99@
 z|1|z!3^13#1*35@
 -- END TREE
 -- START TREE 2
