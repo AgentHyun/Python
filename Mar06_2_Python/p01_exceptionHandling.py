@@ -19,15 +19,45 @@
 # error ? exception? 경계가 모호함...
 ##############################################
 # 정수 2개를 입력받아서 앞의 숫자를 뒤의 숫자로 나눴을 때의 몫
+try:
+    a = int(input("첫번째 숫자 : "))
+    b = int(input("두번째 숫자 : "))
+    result = a // b
+    print("몫은 %d" % result)
+    
+    
+    l = [1, 23, 456]
+    print(l[b])
+# except ZeroDivisionError:
+#   print("y에 0? 이거 맞습니까")
+# except IndexError:
+#     print("list에 없음")
 
-a = int(input("첫번째 숫자 : "))
-b = int(input("두번째 숫자 : "))
-result = a // b
-print("몫은 %d" %  result)
+except Exception as asdf:  #모든 에러
+    print(asdf)            #무슨 내용인지 알고 싶을 때
 
 
+#try문에서 else를 사용하는 이유는,
+#단순히 성능적인 것을 넘어서
+#에러가 발생할 가능성이 있는 부분과 그렇지 않은 부분을
+#정확히 구분을 지어서 작성자의 의도를 명확하게 하기 위함
 
 
+else:
+    print("문제가 없으면 실행")
 
 
+finally:
+    print("문제가 있든 없든 무조건 실행(return보다 먼저)")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
