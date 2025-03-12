@@ -1,4 +1,0 @@
-# str
-s = "Can't tuna kkk"
-print(s)
-print(s[0])    #indedxing

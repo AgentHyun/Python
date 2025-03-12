@@ -1,7 +1,0 @@
-#조건문 : 흐름 제어
-
-if True:
-    print("와~조건문")
-    pass #뭘쓸지 모를때 쓰는 pass
-if False:
-    print("안나오지")
